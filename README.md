@@ -53,3 +53,7 @@
 
 ![Evidencia Día 12](Captura%20de%20pantalla%202026-10-11%20054856.png)
 
+- **Día 13 (11/10/2026 - 78%):** Diagnóstico de rendimiento y pérdida de paquetes mediante el análisis de banderas TCP (`tcp.analysis.flags`) para identificar retransmisiones y congestión en la red.
+
+![Evidencia Día 13](Captura%20de%20pantalla%202026-10-11%20055155.png)
+
