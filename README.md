@@ -61,3 +61,6 @@
 
 ![Evidencia Día 14](Captura%20de%20pantalla%202026-10-11%20055655.png)
 
+- **Día 15 (11/10/2026 - 90%):** Creación y aplicación de filtros lógicos combinados (`and` / `or` / `not`) en Wireshark para el aislamiento preciso de tráfico multiprotocolo.
+
+![Evidencia Día 15](Captura%20de%20pantalla%202026-10-11%20060028.png)
