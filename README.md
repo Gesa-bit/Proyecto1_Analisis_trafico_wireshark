@@ -68,3 +68,26 @@
 - **Día 16 (11/10/2026 - 96%):** Generación de reportes estadísticos globales de conversaciones y endpoints (`Statistics > Conversations`) para auditar el volumen total de paquetes y consumo de ancho de banda.
 
 ![Evidencia Día 16](Captura%20de%20pantalla%202026-10-11%20060302.png)
+
+- **Día 17 (11/10/2026 - 100%):** Consolidación y cierre del proyecto de análisis de tráfico con Wireshark, documentando hallazgos clave de red (análisis de protocolos, diagnóstico TCP, aislamiento ICMP y auditoría de tráfico IPv4). ¡Proyecto Finalizado! 🎉
+
+## 🏁 Resumen General y Cierre del Proyecto (100%)
+
+Este proyecto documenta el análisis práctico de tráfico de red a través de capturas de paquetes con **Wireshark**, abarcando desde la inspección básica hasta el diagnóstico avanzado de rendimiento y análisis estadístico.
+
+### 📌 Hitos y Aprendizajes Clave:
+
+1. **Inspección de Protocolos y Aplicación (Días 1–12):**
+   * Extracción de objetos y análisis de peticiones HTTP.
+   * Diagnóstico de resolución de nombres mediante consultas y respuestas DNS.
+   * Identificación de la arquitectura de la red local y asignación de direcciones.
+
+2. **Diagnóstico de Rendimiento y Capa de Transporte (Días 13–15):**
+   * Identificación de retransmisiones, ACKs duplicados e inestabilidad temporal en conexiones TCP mediante el filtro `tcp.analysis.flags`.
+   * Pruebas de conectividad y control de red inspeccionando tráfico ICMP (`Echo Request/Reply`).
+   * Creación de filtros de visualización avanzados utilizando operadores lógicos combinados (`and`, `or`, `not`).
+
+3. **Auditoría Estadística y Hallazgos Globales (Días 16–17):**
+   * Análisis de conversaciones globales (`Statistics > Conversations`) para evaluar el consumo de ancho de banda y flujo de paquetes.
+   * **Hallazgo relevante:** Se identificó una dependencia total del direccionamiento **IPv4** en el entorno analizado, con ausencia completa de tráfico registrado bajo IPv6.
+   
