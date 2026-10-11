@@ -44,3 +44,8 @@
 - **Día 10 (29/09/2026 - 60%):** Identificación de hosts únicos mediante el panel de puntos finales (`Endpoints > IPv4`) para mapear dispositivos activos en la captura de tráfico.
 
 ![Evidencia Día 10](Captura%20de%20pantalla%202026-09-29%20134051.png)
+
+- **Día 11 (11/10/2026 - 66%):** Extracción y exportación de archivos u objetos multimedia directamente desde el tráfico de red (`Export Objects > HTTP`) usando Wireshark.
+
+![Evidencia Día 11](Captura%20de%20pantalla%202026-10-11%20054509.png)
+
