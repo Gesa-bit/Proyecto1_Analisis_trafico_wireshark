@@ -64,3 +64,7 @@
 - **Día 15 (11/10/2026 - 90%):** Creación y aplicación de filtros lógicos combinados (`and` / `or` / `not`) en Wireshark para el aislamiento preciso de tráfico multiprotocolo.
 
 ![Evidencia Día 15](Captura%20de%20pantalla%202026-10-11%20060028.png)
+
+- **Día 16 (11/10/2026 - 96%):** Generación de reportes estadísticos globales de conversaciones y endpoints (`Statistics > Conversations`) para auditar el volumen total de paquetes y consumo de ancho de banda.
+
+![Evidencia Día 16](Captura%20de%20pantalla%202026-10-11%20060302.png)
