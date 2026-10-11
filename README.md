@@ -49,3 +49,7 @@
 
 ![Evidencia Día 11](Captura%20de%20pantalla%202026-10-11%20054509.png)
 
+- **Día 12 (11/10/2026 - 72%):** Inspección y diagnóstico de consultas y respuestas del protocolo DNS (`dns`) para analizar la resolución de nombres de dominio.
+
+![Evidencia Día 12](Captura%20de%20pantalla%202026-10-11%20054856.png)
+
