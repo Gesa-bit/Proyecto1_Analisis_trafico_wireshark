@@ -57,3 +57,6 @@
 
 ![Evidencia Día 13](Captura%20de%20pantalla%202026-10-11%20055155.png)
 
+- **Día 14 (11/10/2026 - 84%):** Análisis de tráfico de control y pruebas de diagnóstico de red mediante la inspección del protocolo ICMP (`icmp`).
+
+![Evidencia Día 14](Captura%20de%20pantalla%202026-10-11%20055535.png)
